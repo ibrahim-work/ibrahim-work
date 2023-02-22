@@ -8,6 +8,7 @@ Bachelor of Engineering student at Lassonde School of Engineering - York Univers
 
 * 🌍  I'm based in Greater Toronto Area
 * ✉️  You can contact me at [ikhalef@my.yorku.ca](mailto:ikhalef@my.yorku.ca)
+* 🚀  I'm currently working on [My Website](http://ibrahimk.carrd.co)
 
 ### Skills
 
