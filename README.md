@@ -1,4 +1,4 @@
-Hi, my name is Ibrahim Khalef
+Hi, my name is Ibrahim 
 ===============================
 
 CS @ Yorku Lassonde School of Engineering 
