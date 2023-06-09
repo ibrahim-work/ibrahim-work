@@ -1,7 +1,7 @@
 Hi, my name is Ibrahim Khalef
 ===============================
 
-Engineering student
+CS @ Yorku Lassonde School of Engineering 
 -------------------
 
 Computer Science student, BSc Hons. Spec. Software Development, at Lassonde School of Engineering - York University in Toronto, Canada. Currently a STEM Instructor at City of Brampton, working with Python, Java, and MATLAB. Have a look at my projects (github) below!
