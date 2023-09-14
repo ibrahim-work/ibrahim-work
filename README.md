@@ -1,10 +1,9 @@
-Hi, my name is Ibrahim 
+
 ===============================
 
 CS @ Yorku Lassonde School of Engineering 
 -------------------
 
-Computer Science student, BSc Hons. Spec. Software Development, at Lassonde School of Engineering - York University in Toronto, Canada. Currently a STEM Instructor at City of Brampton, working with Python, Java, and MATLAB. Have a look at my projects (github) below!
 
 * 🌍  I'm based in Greater Toronto Area
 * ✉️  You can contact me through [email](mailto:ikhalef@my.yorku.ca)
